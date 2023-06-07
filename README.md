@@ -1,2 +1,2 @@
-# Android-Music-App-Tamil
-Android Music App for Kollywood songs
+# TaMusic-App-Android
+Android Music App for Kollywood (Tamil) songs
